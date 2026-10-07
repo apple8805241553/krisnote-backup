@@ -1,2 +1,2 @@
 # krisnote-backup
-krisnote-backup是自動化打包CODE
+krisnote-backup自動化打包CODE
